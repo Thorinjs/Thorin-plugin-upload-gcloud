@@ -1,0 +1,20 @@
+{
+  "name": "thorin-plugin-upload-gcloud",
+  "author": "UNLOQ Systems",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/storage": "1.6.0",
+    "concat-stream": "^1.5.0"
+  },
+  "description": "Thorin.js Google Cloud Upload storage",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-plugin-upload-gcloud"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-plugin-upload-gcloud/issues"
+  }
+}
