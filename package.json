@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-upload-gcloud",
   "author": "UNLOQ Systems",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "dependencies": {
     "@google-cloud/storage": "^7.16.0",
     "concat-stream": "2.0.0"
