@@ -1,12 +1,12 @@
 {
   "name": "thorin-plugin-upload-gcloud",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "thorin-plugin-upload-gcloud",
-      "version": "2.0.13",
+      "version": "2.0.14",
       "license": "MIT",
       "dependencies": {
         "@google-cloud/storage": "^7.19.0",
@@ -347,9 +347,9 @@
       "integrity": "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g=="
     },
     "node_modules/fast-xml-parser": {
-      "version": "5.3.4",
-      "resolved": "https://registry.npmjs.org/fast-xml-parser/-/fast-xml-parser-5.3.4.tgz",
-      "integrity": "sha512-EFd6afGmXlCx8H8WTZHhAoDaWaGyuIBoZJ2mknrNxug+aZKjkp0a0dlars9Izl+jF+7Gu1/5f/2h68cQpe0IiA==",
+      "version": "5.3.7",
+      "resolved": "https://registry.npmjs.org/fast-xml-parser/-/fast-xml-parser-5.3.7.tgz",
+      "integrity": "sha512-JzVLro9NQv92pOM/jTCR6mHlJh2FGwtomH8ZQjhFj/R29P2Fnj38OgPJVtcvYw6SuKClhgYuwUZf5b3rd8u2mA==",
       "funding": [
         {
           "type": "github",
@@ -358,7 +358,7 @@
       ],
       "license": "MIT",
       "dependencies": {
-        "strnum": "^2.1.0"
+        "strnum": "^2.1.2"
       },
       "bin": {
         "fxparser": "src/cli/cli.js"
@@ -1175,11 +1175,11 @@
       "integrity": "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g=="
     },
     "fast-xml-parser": {
-      "version": "5.3.4",
-      "resolved": "https://registry.npmjs.org/fast-xml-parser/-/fast-xml-parser-5.3.4.tgz",
-      "integrity": "sha512-EFd6afGmXlCx8H8WTZHhAoDaWaGyuIBoZJ2mknrNxug+aZKjkp0a0dlars9Izl+jF+7Gu1/5f/2h68cQpe0IiA==",
+      "version": "5.3.7",
+      "resolved": "https://registry.npmjs.org/fast-xml-parser/-/fast-xml-parser-5.3.7.tgz",
+      "integrity": "sha512-JzVLro9NQv92pOM/jTCR6mHlJh2FGwtomH8ZQjhFj/R29P2Fnj38OgPJVtcvYw6SuKClhgYuwUZf5b3rd8u2mA==",
       "requires": {
-        "strnum": "^2.1.0"
+        "strnum": "^2.1.2"
       }
     },
     "form-data": {
